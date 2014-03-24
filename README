@@ -1,1 +1,30 @@
-Run script/kohelet_server.pl to test the application.
+Kohelet 3
+
+1. Everything has an appointed season, and there is a time for every matter under the heaven. 
+2. A time to give birth and a time to die; a time to plant and a time to uproot that which is planted. 
+3. A time to kill and a time to heal; a time to break and a time to build. 	 
+4. A time to weep and a time to laugh; a time of wailing and a time of dancing. 
+5. A time to cast stones and a time to gather stones; a time to embrace and a time to refrain from embracing. 
+6. A time to seek and a time to lose; a time to keep and a time to cast away. 	
+7. A time to rend and a time to sew; a time to be silent and a time to speak. 
+8. A time to love and a time to hate; a time for war and a time for peace.
+
+------------------------------------------------------------------------
+
+This application shall be a help for the internat organization of a parish.
+
+I am writing it for the protestantic parish Emmaus-Oelberg Kirche in Berlin
+(germany) http://www.emmaus.de 
+
+What will be here:
+
+- Settings for the heating for both churches 
+- internal website for "my" choir the "Oelberg-Chor'
+- maybe more
+
+I am writing it for two purposes:
+
+1. The parish needs some help
+2. I wanna improve my programming-skills 
+
+
